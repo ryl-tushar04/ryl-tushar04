@@ -9,6 +9,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ryl-tushar04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryl-tushar04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<br clear="both">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ryl-tushar04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -20,5 +32,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ryl-tushar04&icon=3&color=1)](https://visitcount.itsvg.in)
+<br clear="both">
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
